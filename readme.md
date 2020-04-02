@@ -1,21 +1,6 @@
-# Sergey - Netlify
+# kurtisojohnson.com
+An perennial experiment in tinkering about with my personal site.
 
-Sergey is a tiny lil’ static site generator. It’s a progressive tool designed to site atop your already brilliant HTML. In essence, Sergey is HTML + partials with slots thrown in for good measure.
+JAMstack life for now, because that's cool right?
 
-This is a starter project that'll deploy to Netlify on your behalf. It demonstrates the two key features of Sergey: imports, and slots.
-
-## Installation
-
-```bash
-$ npm install
-
-# Build the site
-$ npm start
-
-# Run Sergey in dev mode
-$ npm run dev
-```
-
-## Issues
-
-If you have any problems with Sergey, please feel free to file an issue [here](https://github.com/trys/sergey).
+This incarnation is built using Sergey. It's a tiny lil’ static site generator. [check it out here](https://github.com/trys/sergey).
