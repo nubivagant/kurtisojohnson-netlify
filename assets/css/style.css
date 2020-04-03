@@ -420,7 +420,7 @@ border-left: 3px solid #999999;
 
 @media (min-width: 1000px) {
   .wrapper {
-  max-width: 70vw;
+  max-width: 60vw;
   }
 }
 .logo {
