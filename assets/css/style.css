@@ -362,7 +362,7 @@ body {
   font: 400 16px/1.625 'Rubik', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
     Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
     Segoe UI Symbol;
-  font-size: calc(16px + (20 - 14) * (100vw - 320px) / (750 - 320));
+  font-size: calc(20px + (20 - 14) * (100vw - 320px) / (750 - 320));
 }
 
 h1, h2, h3, h4 {
@@ -423,8 +423,9 @@ border-left: 3px solid #999999;
   max-width: 60vw;
   }
 }
-.logo {
+.logo img {
   max-width: 60vw;
+  min-width: 40vw;
   padding: 5px;
   margin: 0 auto;
 }
@@ -440,8 +441,8 @@ border-left: 3px solid #999999;
 }
 
 [role='banner'] img {
-  max-width: 15%;
-  min-width: 15%;
+  max-width: 25%;
+  min-width: 20%;
   border: 0;
   padding-top: 20px;
 }
