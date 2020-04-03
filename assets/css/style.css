@@ -412,11 +412,17 @@ border-left: 3px solid #999999;
 /* Grid */
 
 .wrapper {
-  max-width: 60vw;
+  max-width: 90vw;
+  min-width: 70vw;
   padding: 20px;
   margin: 0 auto;
 }
 
+@media (min-width: 1000px) {
+  .wrapper {
+  max-width: 70vw;
+  }
+}
 .logo {
   max-width: 60vw;
   padding: 5px;
