@@ -217,7 +217,7 @@ h1 {
 }
 .E h1 span:nth-child(7) { /* J */
 	grid-column: 6;
-	grid-row: 3;
+	grid-row: 4;
 }
 .E h1 span:nth-child(8) { /* O */
 	grid-column: 1;
