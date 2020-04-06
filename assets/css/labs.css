@@ -1,0 +1,245 @@
+/*  Basic Styling
+------------------------------------------------------- */
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+}
+
+html {
+	font-family: 'Rubik', Helvetica, sans-serif;
+	background: #e4e4d5;
+}
+header {
+	margin: 4rem;
+}
+h1 {
+	text-transform: uppercase;
+	font-size: 4rem;
+	border: 8px solid var(--main-lab-color);
+	text-align: center;
+}
+
+:root {
+  --main-lab-color: #d55349;
+  --main-link-color: #333;
+}
+
+.wrapper-labs {
+  font: 400 16px/1.625 'Rubik', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol;
+  font-size: calc(20px + (20 - 14) * (100vw - 320px) / (750 - 320));
+  max-width: 90vw;
+  min-width: 70vw;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.wrapper-labs a {
+    text-decoration: none;
+    text-transform: none !important;
+    font-weight: 400 !important;
+    color: #333;
+    box-shadow: inset 0 -2px 0 rgba(213,83,73,1);
+    transition: ease-in .05s border-bottom;
+}
+
+.wrapper-labs a:hover {
+    box-shadow: inset 0 -30px 0 rgba(213,83,73,0.4);
+
+}
+
+@media (min-width: 1000px) {
+  .wrapper-labs {
+  max-width: 80vw;
+  }
+}
+
+  /* styling the list of posts */
+
+  .postlist ul {
+      margin: 0;
+      list-style: none;
+      padding-left: 0;
+  }
+
+  .postlist li {
+    list-style-type: none;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: .5rem;
+  }
+
+  .postlist li a {
+    text-decoration: none;
+      color: #333;
+      box-shadow: inset 0 -2px 0 rgba(213,83,73,1);
+      transition: ease-in .05s border-bottom;
+  }
+
+  .postlist li a:hover {
+    box-shadow: inset 0 -30px 0 rgba(213,83,73,0.4);
+  }
+
+  .postlist time {
+    margin-left: 3rem;
+  }
+
+  section {
+  flex-basis: 0;
+  flex-grow: 999;
+  min-width: 70%;
+  display: flex;
+  flex-direction: column;
+  }
+
+  /* Footer */
+
+  [role='contentinfo'] .wrapper-labs {
+    margin-top: 100px;
+    font-size: 0.8em;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  [role='contentinfo'] .deploy {
+    max-width: 40%;
+  }
+
+  .credits {
+    font-size: 1em;
+  }
+
+  .credits a {
+    font-size: 1em !important;
+  }
+
+  blockquote {
+  border-left: 6px solid var(--main-lab-color);
+      padding-left: 15px;
+      margin-left: 10px;
+      font-style: normal;
+  }
+
+
+/*  KOJ labs homepage version E
+------------------------------------------------------- */
+.E header {
+	margin: 3rem;
+	display: grid;
+	grid-template-columns: 0 max-content 5rem auto;
+	grid-template-rows: 1.5rem 50px min-content auto auto;
+	gap: 0 1rem;
+}
+.E h1 {
+	grid-column: 1 / 3;
+	grid-row: 1 / 5;
+	border: none;
+	margin: 0;
+	font-size: 2.5rem;
+}
+.E nav {
+	writing-mode: vertical-rl;
+	grid-column: 3 / 5;
+	grid-row: 3;
+	background: var(--main-lab-color);
+  padding: 1rem;
+}
+.E .red-box {
+	border: 6px solid var(--main-lab-color);
+	grid-row: 2 / 5;
+	grid-column: 2 / 4;
+	z-index: -1;
+}
+.E ul {
+	padding: 1rem;
+}
+.E li {
+	list-style: none;
+  padding: 1rem;
+}
+
+.E .lab-links {
+	color: var(--main-link-color);
+  letter-spacing: 0.2em;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 1.3rem;
+	font-weight: 800;
+  box-shadow: inset 3px 0 0 rgba(51,51,51,1);
+  transition: ease-in .05s border-bottom;
+}
+
+
+.E .lab-links a:hover {
+    box-shadow: inset 30px 0 0 rgba(51,51,51,0.4);
+
+}
+
+.E img {
+	mix-blend-mode: overlay;
+	grid-column: 3 / 5;
+	grid-row: 3 / 6;
+}
+
+/* Inner Grid — same as demo C */
+
+.E h1 {
+	display: grid;
+	grid-template-columns: repeat(8, 1fr);
+}
+.E h1 span:nth-child(1) { /* K */
+	grid-column: 2;
+	grid-row: 1;
+}
+.E h1 span:nth-child(2) { /* U */
+	grid-column: 3;
+	grid-row: 1;
+}
+.E h1 span:nth-child(3) { /* R */
+	grid-column: 6;
+	grid-row: 1;
+}
+.E h1 span:nth-child(4) { /* T */
+	grid-column: 3;
+	grid-row: 2;
+}
+.E h1 span:nth-child(5) { /* I */
+	grid-column: 4;
+	grid-row: 2;
+}
+.E h1 span:nth-child(6) { /* S */
+	grid-column: 5;
+	grid-row: 3;
+}
+.E h1 span:nth-child(7) { /* J */
+	grid-column: 6;
+	grid-row: 3;
+}
+.E h1 span:nth-child(8) { /* O */
+	grid-column: 1;
+	grid-row: 4;
+}
+.E h1 span:nth-child(9) { /* H */
+	grid-column: 2;
+	grid-row: 4;
+}
+.E h1 span:nth-child(10) { /* N */
+	grid-column: 5;
+	grid-row: 5;
+}
+.E h1 span:nth-child(11) { /* S */
+	grid-column: 3;
+	grid-row: 6;
+}
+.E h1 span:nth-child(12) { /* O */
+	grid-column: 5;
+	grid-row: 6;
+}
+.E h1 span:nth-child(13) { /* N */
+	grid-column: 8;
+	grid-row: 7;
+}

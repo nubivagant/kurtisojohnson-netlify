@@ -1,18 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
-  <sergey-import src="head" />
-  <body>
-    <sergey-import src="header" />
+<sergey-import src="head-labs">
+  <title>Labs</title>
+</sergey-import>
 
-    <main class="wrapper">
-      <h1>Kurtis Johnson</h1>
-      <p>Hello! I'm Kurtis. I like turning problems into opportunities of value for public good.</p>
-      <blockquote><p>Currently: I'm a consultant in the Org Design team at <a href="https://www.wearefuturegov.com">FutureGov</a>, the change agency for 21<sup>st</sup> century public service organisations.</p></blockquote>
-    </main>
-    <main class="wrapper">
-      <sergey-import src="postlist" />
+<body>
+
+  <body class="E">
+
+		<header role="banner" >
+		  <h1 class="site-name" aria-label="Kurtis Johnson">
+			  <span aria-hidden="true">K</span>
+			  <span aria-hidden="true">u</span>
+			  <span>r</span>
+			  <span>t</span>
+			  <span>i</span>
+			  <span>s</span>
+			  <span>J</span>
+				<span>o</span>
+				<span>h</span>
+				<span>n</span>
+				<span>s</span>
+				<span>o</span>
+				<span>n</span>
+			</h1>
+		  <nav role="navigation" class="main-menu">
+				<ul class="menu">
+					<li><sergey-link to="/" class="lab-links">Home</sergey-link></li>
+					<li><sergey-link to="/about/" class="lab-links">About</sergey-link></li>
+					<!-- <li><sergey-link to="/notes/" class="lab-links">Notes</sergey-link></li> -->
+				</ul>
+			</nav>
+			<div class="red-box"></div>
+			<img src="/assets/img/koj-portrait.svg" style="width: 290px;" alt="K O Johnson">
+		</header>
+
+    <main class="wrapper-labs">
+      <p>Hello! I'm Kurtis</p>
+      <p>I like turning problems into opportunities of value for public good</p>
+      <blockquote><p>Currently: I'm a consultant in the Org Design team at <a href="https://www.wearefuturegov.com">FutureGov</a>, the change agency for 21<sup>st</sup> century public service organisations</p></blockquote>
     </main>
 
-    <sergey-import src="footer" />
-  </body>
+		<main class="wrapper-labs">
+        <sergey-import src="postlist" />
+		</main>
+
+    <sergey-import src="footer-labs" />
+
+</body>
+
 </html>
