@@ -5,6 +5,11 @@ body {
   margin: 0;
 }
 
+::selection {
+  background-color: #d55349;
+  color: white;
+}
+
 html {
 	font-family: 'Rubik', Helvetica, sans-serif;
 	background: #e4e4d5;
