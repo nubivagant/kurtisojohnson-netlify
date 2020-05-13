@@ -1,4 +1,4 @@
-> Week notes are still in vogue right? Or they might’ve peaked. So many come and go (this might be my fourth attempt), though either way one thing still stands; they’re cathartic.
+Week notes are still in vogue right? Or they might’ve peaked. So many come and go (this might be my fourth attempt), though either way one thing still stands; they’re cathartic.
 
 So I’m giving this a go: 3x3. Three things, across three categories: Work, Noticing & Signals. Three is always the number of choice. A proper arbitrary workshop finger in the air number of choice.  
 
