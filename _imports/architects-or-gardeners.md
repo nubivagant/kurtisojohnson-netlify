@@ -1,4 +1,3 @@
-# Architects or gardeners of change?
 I thought it was weird at first that George R.R. Martin compares his writing style to that of a gardener. “The gardeners dig a hole, drop in a seed and water it. They kind of know what seed it is, they know if they planted a fantasy seed or mystery seed or whatever. But as the plant comes up and they water it, they don’t know how many branches it’s going to have, they find out as it grows. And I’m much more a gardener than an architect.”
 
 It’s a loose analogy, but it actually paints a compelling picture. A picture that extends to describe the tension when approaching change within organisations. Or any kind of change for that matter.
