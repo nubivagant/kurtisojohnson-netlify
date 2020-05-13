@@ -1,6 +1,6 @@
-**Are we really building capability, or just adding capacity and leaving debt?**
+#### Are we really building capability, or just adding capacity and leaving debt?
 
-I want the people within organisations we partner with to have every chance of their work being as impactful as possible, without us. So I’m starting to think more and more about ‘what it might take for this to really happen?’.
+I want the people within organisations we partner with to have every chance of their work being as impactful as possible, without us. So I’m starting to think more and more about ‘what might it take for this to really happen?’.
 
 ## Let’s talk about technical debt.
 Technical debt is a concept coined by Ward Cunningham (founder of the wiki) that refers to the idea of cutting corners when developing software.
