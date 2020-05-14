@@ -414,7 +414,7 @@ border-left: 3px solid #999999;
 }
 
 blockquote {
-  margin: 40px auto 40px 20px;
+  margin: 1.8em auto 3em 1em;
   width: 80%;
   /* border: solid 2px #999999; */
   padding: 10px 20px 10px 20px;
