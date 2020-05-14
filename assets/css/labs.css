@@ -88,7 +88,9 @@ h1 {
   }
 
   .postlist time {
-    margin-left: 3rem;
+    margin-left: 5rem;
+    font-style: italic !important;
+    font-size: 0.7em !important;
   }
 
   section {
