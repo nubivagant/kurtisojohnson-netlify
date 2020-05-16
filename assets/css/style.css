@@ -438,6 +438,11 @@ blockquote {
   margin: 0 auto;
 }
 
+.wrapper img {
+  max-width: 100%;
+  height: auto;
+}
+
 @media (min-width: 1000px) {
   .wrapper {
   max-width: 60vw;
@@ -548,11 +553,14 @@ flex-direction: column;
 
 }
 
+
+
 .book {
   margin: 25px 10px;
   align-items: center;
   display: flex;
   flex-direction: column;
+  border-bottom: 6px solid #c9c5bb;
 }
 
 .book .author {
