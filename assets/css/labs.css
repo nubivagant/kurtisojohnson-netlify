@@ -135,6 +135,8 @@ h1 {
 
 /*  KOJ labs homepage version E
 ------------------------------------------------------- */
+
+
 .E header {
 	margin: 3rem;
 	display: grid;
@@ -155,6 +157,7 @@ h1 {
 	grid-row: 3;
 	background: var(--main-lab-color);
   padding: 1rem;
+  z-index: 999;
 }
 .E .red-box {
 	border: 6px solid var(--main-lab-color);
