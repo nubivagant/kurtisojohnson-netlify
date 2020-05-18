@@ -60,6 +60,15 @@ h1 {
   }
 }
 
+@media (max-width: 600px) {
+  nav {
+  display: none;
+  }
+  .headerlogo {
+    display: none;
+  }
+}
+
   /* styling the list of posts */
 
   .postlist ul {
@@ -106,7 +115,7 @@ h1 {
   [role='contentinfo'] .wrapper-labs {
     margin-top: 100px;
     font-size: 0.8em;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    /* border-top: 1px solid rgba(0, 0, 0, 0.1); */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -131,6 +140,19 @@ h1 {
       margin-left: 10px;
       font-style: normal;
   }
+
+  .bodynavlinks {
+    padding: 0 !important;
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+    margin-top: 2em;
+  }
+
+  .bodynavlinks a {
+    font-size: 0.6em;
+    color: #999897;
+    margin-right: 2em;
+  }
+
 
 
 /*  KOJ labs homepage version E
