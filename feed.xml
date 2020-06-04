@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+ <channel>
+  <title>Kurtis Johnson</title>
+  <link>https://kurtisojohnson.com/notes</link>
+  <description>Notes on org design and change</description>
+  <lastBuildDate>Thu, 04 Jun 2020 09:23:58 GMT</lastBuildDate>
+  <generator>ListGarden Program 1.3.1</generator>
+  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <item>
+   <title>Gradually then suddenly</title>
+   <link>https://kurtisojohnson.com/notes/gradually-suddenly/</link>
+   <description>&lt;h1&gt;Gradually then suddenly&lt;/h1&gt;
+      &lt;p&gt;My buddy and colleague Alex wrote something that stuck with me, when reflecting on some work that they wrapped up recently:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“I&amp;#39;ve also been reminded of the amazing impact that comes from continually taking care of the little things over time”  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It reminded me of the way &lt;a href=&quot;https://fs.blog/2013/05/the-buffett-formula/&quot;&gt;Buffet and Munger&lt;/a&gt; talk about a ‘compound interest machine’. Or how &lt;a href=&quot;https://www.amazon.co.uk/Atomic-Habits-Proven-Build-Break/dp/1847941834/ref=sr_1_1?dchild=1&amp;amp;keywords=atomic+habit&amp;amp;qid=1589443267&amp;amp;s=books&amp;amp;sr=1-1&quot;&gt;James clear&lt;/a&gt; describes building lasting change in new habits, little by little.&lt;/p&gt;
+&lt;p&gt;But all of that only matters if you stick around. If you have the grit, graft and gift of being able to keep chipping away at something meaningful. If you do, and can, you’re on the path to exponential growth. Taking care of the little things over time has the potential to build towards that 10x growth factor that unicorn startups chase, fuelled by VC money.&lt;/p&gt;
+&lt;p&gt;It’s equally as important in the public sector though. We’re not really chasing exponential growth. But we should view that compound interest approach as a way to build resilience. As a way to maintain chipping away in incredibly tactical ways, but always within a wider strategic framework. So that we can keep showing up and providing value, even in a crisis.&lt;/p&gt;
+&lt;p&gt;It’s a bit like the military adage used to describe how paradoxically, we need a continuous sequence of disruptions in order to stay on an approximately steady trajectory.&lt;/p&gt;
+&lt;p&gt;That’s pretty much how change works. Gradually, and then suddenly. You only have to look as far as the current pandemic to see this in action. In the UK we gradually watched events unfold across the globe. The virus slowly meandering through different time zones, leaving waves of death and panic in its wake. Then suddenly, we too found ourselves in lockdown.&lt;/p&gt;
+&lt;p&gt;Although change might predictably follow this curve, as humans we have a tendency to think about the impact of it on an altogether different trajectory. We overestimate the short term, and grossly underestimate the long. We don’t take care of the little things now; sweat the details, because we underestimate the compound interest they will result in over time. Instead, we chase the shiny things. The next contract. The fast money. All traits of the magpie mavens, often disguised as leaders.&lt;/p&gt;
+&lt;p&gt;Because ultimately that’s determined as much by the strategy of leadership as it is a choice for the doers below.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Leadership is the ability to convince people to work together in pursuit of a common goal” &lt;p class=“small”&gt;— Scott Galloway&lt;/p&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Scott Galloway &lt;a href=&quot;https://marker.medium.com/the-fourth-great-unlock-e85e181f520d&quot;&gt;made this remark recently&lt;/a&gt; when describing Jeff Bezos’s decision to spend billions to ensure the safety of the Amazon supply chain. He talks about how this stems from a vision that’s obvious only after being crazy/genius. I don’t agree with that though. Amazon has built the resilience and reserves that allows you to make a 4 billion dollar investment like this, only by building the empire slowly over time. Investing in the small stuff that compounds. It just might look to us from the outside in retrospect that a few big bets paid off.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“How did you go bankrupt?” Bill asked.&lt;br&gt;“Two ways,” Mike said. “Gradually and then suddenly.” &lt;p class=“small”&gt;— Ernest Hemingway, The Sun Also Rises.&lt;/p&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I wonder if as an agency we’re built for this. Do we have the staying power to take care of the little things and affect greater change over time? Or will we just overestimate the short term and fail gradually then suddenly?&lt;/p&gt;</description>
+   <pubDate>Wed, 14 May 2020 09:25:00 GMT</pubDate>
+   <guid isPermaLink="true">https://kurtisojohnson.com/notes/gradually-suddenly/</guid>
+  </item>
+  <item>
+   <title>Outcome unknown</title>
+   <link>https://kurtisojohnson.com/notes/outcome-unknown/</link>
+   <description>&lt;h1&gt;Outcome unknown&lt;/h1&gt;
+      &lt;p&gt;&lt;strong&gt;Taking a service oriented view vs an outcome oriented view of the world&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I think &amp;#39;service design&amp;#39; might not be the best vantage point for understanding and setting organisations up for change, from the inside-out or outside-in. I’ve tried it from both angles.&lt;/p&gt;
+&lt;p&gt;Yes, service design is the design of services. And a service is something that exists to meet a need. They’re important, and framing it this way is neat and accessible and lends itself to act on the point of ‘designing for user needs’, that’s long been a consciously absent practice.&lt;/p&gt;
+&lt;p&gt;The way I see it, a service is a collection of activities. A series of inputs and outputs, sequenced in a particular way that result in an action. That means in practice when we approach change through this lens of services, we often end up with a list of activities that form it, and focus on optimising or ‘solving’ for these.&lt;/p&gt;
+&lt;p&gt;Service design by this very nature means we’ll probably just end up with more services. And services are often silos in disguise. But what about the new institutions we need?&lt;/p&gt;
+&lt;p&gt;Let’s take a financial assessment as an example. Within the realms of adult social care in local authorities, these assessments are essentially a sequence of activities along the lines of: identify care need, fill in a form, perform some calculations, make a judgement, arrange care, send an invoice, agree payment terms. This is an oversimplified reduction, but in essence the core components aren’t far from this - it just happens that we layer process complexity on top most of the time, and conflate it with policy.&lt;/p&gt;
+&lt;p&gt;The risk with a focus on designing services as activities framed like this, is that they generally reflect the current practice. The things we do now. They’re largely a reflection of process, a series of exposed endpoints, with a bias in service design practice towards improving those that are user-facing.&lt;/p&gt;
+&lt;p&gt;So we’ll look at the activities and outputs that emerge from discovery, build assumptions to test on top of these and progress from there. Ultimately leading to prototyping new ways to carry out these same activities. But by the time we get towards delivering a new thing, the underlying activities are probably different. That’s because they’re inherently fragile; activities and approaches are likely to change over time. There are lots of variables, and services are inextricably linked to the system they operate within.&lt;/p&gt;
+&lt;h2 id=&quot;organising-for-outcomes&quot;&gt;Organising for outcomes&lt;/h2&gt;
+&lt;p&gt;The alternative is in starting with a set of outcomes and refining how you organise people and capabilities around to meet them. The benefit is that outcomes tend to be more static and stable. They’re tied to the overarching purpose and vision of a place or thing. That means they form a much better set of foundations to organise on top of.&lt;/p&gt;
+&lt;p&gt;Back to the example of a financial assessment — we might be better off starting from a bunch of outcomes. Doing the hard work to make them simple, purposeful and finding consensus between policy levers, social care practice and the economic model.
+This might look like ‘prevent a care need....’ or ‘bring resilience and health independence to anyone that has a care need’. These outcomes go beyond the bounds of a service because we know the long term impact and benefit we’re targeting.&lt;/p&gt;
+&lt;p&gt;Instead of a refined set of activities or a better sequence of events, we might realise that the answer is to do away with the assessment in its entirety. We might have been solving for the wrong thing entirely.&lt;/p&gt;
+&lt;p&gt;So can’t we just layer outcomes on top of the service? I just don’t think you get to outcomes by starting from the perspective of service level activities. You might end up there, but I don’t think your trojan horse in the form of a small intervention will really cut it. It’ll likely take a ton of deliberate effort going against the grain.&lt;/p&gt;
+&lt;h2 id=&quot;why-is-this-important-to-think-about&quot;&gt;Why is this important to think about?&lt;/h2&gt;
+&lt;p&gt;Ultimately, I guess I&amp;#39;m talking about strategy. At its very core, strategy is about making better decisions. To do this, clearly articulated outcomes can provide a framework to help us think through these with clarity and confidence. Your strategy isn’t really delivery. It’s the choices you make, whether that ends in delivering a thing or not. The important part of any given strategy is explicitly signalling the things you won’t do.&lt;/p&gt;
+&lt;p&gt;I reckon if our outcomes are clear, our strategy has a better chance of adjusting to the ever changing environment that presents us with a stream of new information. The service activities will change, but the outcomes shouldn’t. At least not on the same horizons.&lt;/p&gt;
+&lt;p&gt;Yes it’s important to design services. But we know largely it&amp;#39;s institutions that define outcomes. So we need to find a way to move up the stack, else we’ll just keep optimising activities and not really changing anything. We’ll end up with good services, poor institutions and big gaps in between.&lt;/p&gt;</description>
+   <pubDate>Fri, 22 May 2020 09:25:00 GMT</pubDate>
+   <guid isPermaLink="true">https://kurtisojohnson.com/notes/outcome-unknown/</guid>
+  </item>
+ </channel>
+</rss>
