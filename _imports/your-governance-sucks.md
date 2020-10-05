@@ -1,4 +1,4 @@
-> "I’ve seen what gets exaggerated and by whom, and where the real and underreported impact lies." - Jan Chipchase, Studio D
+> "I’ve seen what gets exaggerated and by whom, and where the real and underreported impact lies." <span class="small">- Jan Chipchase, Studio D</span>
 
 Governance is something that gets exaggerated. By organisations, consultancies, design agencies. You name it. I wonder though, just how many places of work are stifled by meetings masquerading as governance? I bet yours is. Mine too! Pre-meetings for the real meetings are my favourite.
 
