@@ -2,7 +2,7 @@ In the first issue of Lucky Peach (arguably the finest quarterly food journal ev
 
 Reger tears apart the world and everything he believes in – on the basis that if you believe in something, be it art, sports, or anything humanity has created to be beautiful, there’ll come a point in time when you’re eventually going to see the cracks in the facade.
 
-And when you do, how do you reconcile that? How do you respond to this message, shrouded in the clothes of failure? Not the Silicon Valley fail fast and break things type of failure. The ‘everything has gone to pot’ type of failure. We’ve all felt it. Like the point in time that you realise a childhood hero isn’t really that heroic. Their record is tainted and image just a shiny exterior. There’s an expectation-failure that you have to reconcile.
+And when you do, how do you reconcile that? How do you respond to this message, shrouded in the clothes of failure? Not the Silicon Valley 'fail fast and break things' type of failure. The ‘everything has gone to pot’ type of failure. We’ve all felt it. Like the point in time that you realise a childhood hero isn’t really that heroic. Their record is tainted and image just a shiny exterior. There’s an expectation-failure that you have to reconcile.
 
 And so as ‘designers' (yes everyone designs but not everyone is a designer, perhaps) we know great design is only gained through constant iteration. And by its very nature, iteration means failure. Over and over again. Trial and error. In that very act and process you’re actively seeking the cracks in the facade.
 
